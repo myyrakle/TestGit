@@ -4,6 +4,6 @@ fn main() {
     }
 }
 
-fn add(lhs: i32, rhs: i32) -> i32 {
-    lhs + rhs
+fn add(lhs_1: i32, rhs: i32) -> i32 {
+    lhs_1 + rhs
 }
